@@ -13,3 +13,7 @@ LOCAL_PAYER_JSON_ABSPATH="/Users/lwin/.config/solana/id.json"
 - `npm i`
 - `npx ts-node src/<file_name>.ts`
 	You can run the example scripts in order to follow along with README.
+
+### A little research with some supported scripts
+- [transaction fees](https://github.com/lwin-kyaw/solana-getting-started/blob/main/TxFee.md)
+- [transaction simulations](https://github.com/lwin-kyaw/solana-getting-started/blob/main/simulation.md)
